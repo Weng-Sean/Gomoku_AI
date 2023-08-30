@@ -1,7 +1,5 @@
 # Gomoku_AI
 
-![Game Screenshot](screenshot.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -10,7 +8,6 @@
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Project Structure](#project-structure)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -40,9 +37,9 @@ This project is an implementation of the Gomoku game using Python and the Pygame
 1. Clone this repository to your local machine:
    git clone https://github.com/your-username/gomoku-game.git
 2. Clone this repository to your local machine:
-   cd gomoku-game
+   ```cd gomoku-game```
 3. Install the required dependencies, including Pygame:
-   pip install pygame
+   ```pip install pygame```
 
 ## How to Play
 

@@ -44,7 +44,7 @@ This project is an implementation of the Gomoku game using Python and the Pygame
 ## How to Play
 
 1. Run the game by executing the following command:
-   python main.py
+   ```python main.py```
 2. The game will start with a main menu where you can choose your gameplay mode.
 3. In the game, click on the grid cells to make your moves.
 4. Follow the on-screen instructions to play the game.
@@ -59,4 +59,3 @@ The project files are organized as follows:
 - AI.py: Contains the AI player logic, which determines the AI's moves.
 - decision_tree_v2.py: Implementation of the decision tree used by the AI player.
 - board.py: Defines the Board class, which represents the game board and its state.
-- screenshots/: Directory containing screenshots of the game (optional).

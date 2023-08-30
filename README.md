@@ -44,7 +44,7 @@ This project is an implementation of the Gomoku game using Python and the Pygame
 ## How to Play
 
 1. Run the game by executing the following command:
-   ```python main.py```
+   ```python py_game.py```
 2. The game will start with a main menu where you can choose your gameplay mode.
 3. In the game, click on the grid cells to make your moves.
 4. Follow the on-screen instructions to play the game.
